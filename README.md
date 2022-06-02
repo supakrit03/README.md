@@ -1,3 +1,3 @@
-# Hello guys welcome to my GitHub.
+## Hello guys welcome to my GitHub.
 
-![](https://raw.githubusercontent.com/supakrit03/supakrit03/main/hello.gif)
+<img src="https://raw.githubusercontent.com/supakrit03/supakrit03/main/hello.gif" width="40%" />
